@@ -37,6 +37,7 @@ A curated list of AI resources, including courses, popular repositories, and too
 | [agents](https://github.com/ed-donner/agents) | ed-donner | Repo for the Complete Agentic AI Engineering Course | ![GitHub Repo stars](https://img.shields.io/github/stars/ed-donner/agents?style=social) |
 | [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | NirDiamant | Tutorials and implementations for Generative AI Agent techniques. | ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social) |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | NirDiamant | End-to-end tutorials for production-grade GenAI agents. | ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/agents-towards-production?style=social) |
+| [Anthropic for Developers](https://anthropic.skilljar.com/) | Anthropic | Courses on AI development, integration, and fluency. | N/A |
 
 ## Awesome Lists
 
