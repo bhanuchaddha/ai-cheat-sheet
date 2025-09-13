@@ -1,6 +1,6 @@
 # AI Cheat Sheet
 
-A curated list of AI resources, including courses, popular repositories, and tools.
+Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial Intelligence. This curated repository is a comprehensive collection of resources for anyone interested in Generative AI (GenAI), Large Language Models (LLMs), and Agentic AI. Here you will find a hand-picked list of popular GitHub repositories, essential tools and frameworks, in-depth courses, and expert-led YouTube videos. Whether you're a beginner looking to understand the fundamentals of Retrieval-Augmented Generation (RAG) and Prompt Engineering, or an experienced practitioner exploring advanced topics like Fine-Tuning, AI Agents, and Vector Databases, this cheat sheet is designed to be your go-to resource.
 
 ## Contents
 
