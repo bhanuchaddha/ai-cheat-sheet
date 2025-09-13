@@ -11,6 +11,7 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
     - [AI AGENTS SPECIALIZATION (LEVEL 2)](#ai-agents-specialization-level-2)
 - [Favorite YouTube Videos for AI Agents](#favorite-youtube-videos-for-ai-agents)
 - [Awesome Lists](#awesome-lists)
+- [Books](#books)
 - [AI/ML Tools & Frameworks](#aiml-tools--frameworks)
   - [AI Gateway](#ai-gateway)
   - [AI Workload Manager](#ai-workload-manager)
@@ -85,6 +86,12 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 |---|---|---|---|
 | [awesome-mcp-servers](http://github.com/appcypher/awesome-mcp-servers) | appcypher | A curated list of Model Context Protocol servers. | ![GitHub Repo stars](https://img.shields.io/github.stars/appcypher/awesome-mcp-servers?style=social) |
 | [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | punkpeye | A collection of Model Context Protocol clients. | ![GitHub Repo stars](https://img.shields.io/github.stars/punkpeye/awesome-mcp-clients?style=social) |
+
+## Books
+
+| Name | Author | Description |
+|---|---|---|
+| [Agentic Design Patterns](https://lnkd.in/dKgVhwC2) | Antonio Gulli | A 400-page free book on Agentic Design Patterns, covering advanced prompting, multi-agent design, tool use, memory management, and more. |
 
 ## AI/ML Tools & Frameworks
 
