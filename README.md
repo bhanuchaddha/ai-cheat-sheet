@@ -5,6 +5,10 @@ A curated list of AI resources, including courses, popular repositories, and too
 ## Contents
 
 - [Getting Started: Courses & Projects](#getting-started-courses--projects)
+  - [Projects](#projects)
+  - [Online Courses](#online-courses)
+    - [GEN AI AND RAG FOUNDATIONS (LEVEL 1)](#gen-ai-and-rag-foundations-level-1)
+    - [AI AGENTS SPECIALIZATION (LEVEL 2)](#ai-agents-specialization-level-2)
 - [Awesome Lists](#awesome-lists)
 - [AI/ML Tools & Frameworks](#aiml-tools--frameworks)
   - [AI Gateway](#ai-gateway)
@@ -30,6 +34,8 @@ A curated list of AI resources, including courses, popular repositories, and too
 
 ## Getting Started: Courses & Projects
 
+### Projects
+
 | Name | Author | Description | Stars |
 |---|---|---|---|
 | <img src="https://cdn.simpleicons.org/oreilly" width="20"> [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | HandsOnLLM | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | ![GitHub Repo stars](https://img.shields.io/github.stars/HandsOnLLM/Hands-On-Large-Language-Models?style=social) |
@@ -37,7 +43,27 @@ A curated list of AI resources, including courses, popular repositories, and too
 | [agents](https://github.com/ed-donner/agents) | ed-donner | Repo for the Complete Agentic AI Engineering Course | ![GitHub Repo stars](https://img.shields.io/github.stars/ed-donner/agents?style=social) |
 | [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | NirDiamant | Tutorials and implementations for Generative AI Agent techniques. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/GenAI_Agents?style=social) |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | NirDiamant | End-to-end tutorials for production-grade GenAI agents. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/agents-towards-production?style=social) |
-| <img src="https://cdn.simpleicons.org/anthropic" width="20"> [Anthropic for Developers](https://anthropic.skilljar.com/) | Anthropic | Courses on AI development, integration, and fluency. | N/A |
+
+### Online Courses
+
+
+| Name | Author | Description |
+|---|---|---|
+| <img src="https://cdn.simpleicons.org/anthropic" width="20"> [Anthropic for Developers](https://anthropic.skilljar.com/) | Anthropic | Courses on AI development, integration, and fluency. |
+| [Generative AI for Everyone](https://lnkd.in/d2XCRaAw) | DeepLearning.AI | A foundational course by Andrew Ng on Generative AI concepts. |
+| [Large Language Models (LLMs) - Level 1](https://lnkd.in/due32aSn) | Coursera & H2O.ai | An introductory course on the basics of Large Language Models. |
+| [ChatGPT Prompt Engineering for Developers](https://lnkd.in/drfVMsme) | DeepLearning.AI & OpenAI | Learn how to craft effective prompts for LLM applications. |
+| [Preprocessing Unstructured Data for LLM Apps](https://lnkd.in/dWDyqeyg) | DeepLearning.AI & Unstructured | Techniques for handling and preprocessing unstructured data for LLMs. |
+| [Getting Started with Generative AI API Specialization](https://lnkd.in/dKiQD5EV) | Coursera & Codio | Fundamentals of using Generative AI APIs for building applications. |
+| [Introduction to Retrieval Augmented Generation (RAG)](https://lnkd.in/ddmbeMy7) | Coursera | An essential guide to understanding and using RAG. |
+| [Fundamentals of AI Agents Using RAG and LangChain](https://lnkd.in/dxgD2jFN) | Coursera & IBM | An introduction to AI agents using RAG and LangChain. |
+| [LangChain for LLM Application Development](https://lnkd.in/dCEw5_9M) | DeepLearning.AI & LangChain | Exploring agent frameworks with LangChain for LLM development. |
+| [Build Autonomous AI Agents From Scratch With Python](https://lnkd.in/dss98f3C) | Udemy | A practical course on building simple AI agents with Python. |
+| [AI Agentic Design Patterns with AutoGen](https://lnkd.in/de9GBUqz) | Coursera & Microsoft | Understanding agent workflows and design patterns with AutoGen. |
+| [LLMs as Operating Systems: Agent Memory](https://lnkd.in/dmMt6mSj) | DeepLearning.AI & Letta | A deep dive into agent memory and its role in LLM operations. |
+| [Building Intelligent Troubleshooting Agents](https://lnkd.in/dnUhYZ7Y) | Coursera & Microsoft | Learn to evaluate and build effective troubleshooting agents. |
+| [Multi AI Agent Systems with crewAI](https://lnkd.in/dTudrD55) | DeepLearning.AI & CrewAI | A guide to creating and managing systems with multiple collaborating AI agents. |
+| [Building & Evaluating Advanced RAG Apps](https://lnkd.in/dyMg8eV9) | DeepLearning.AI, LlamaIndex & TruEra | Implementing and evaluating advanced RAG in agentic systems. |
 
 ## Awesome Lists
 
