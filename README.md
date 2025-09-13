@@ -9,6 +9,7 @@ A curated list of AI resources, including courses, popular repositories, and too
   - [Online Courses](#online-courses)
     - [GEN AI AND RAG FOUNDATIONS (LEVEL 1)](#gen-ai-and-rag-foundations-level-1)
     - [AI AGENTS SPECIALIZATION (LEVEL 2)](#ai-agents-specialization-level-2)
+- [Favorite YouTube Videos for AI Agents](#favorite-youtube-videos-for-ai-agents)
 - [Awesome Lists](#awesome-lists)
 - [AI/ML Tools & Frameworks](#aiml-tools--frameworks)
   - [AI Gateway](#ai-gateway)
@@ -64,6 +65,19 @@ A curated list of AI resources, including courses, popular repositories, and too
 | [Building Intelligent Troubleshooting Agents](https://lnkd.in/dnUhYZ7Y) | Coursera & Microsoft | Learn to evaluate and build effective troubleshooting agents. |
 | [Multi AI Agent Systems with crewAI](https://lnkd.in/dTudrD55) | DeepLearning.AI & CrewAI | A guide to creating and managing systems with multiple collaborating AI agents. |
 | [Building & Evaluating Advanced RAG Apps](https://lnkd.in/dyMg8eV9) | DeepLearning.AI, LlamaIndex & TruEra | Implementing and evaluating advanced RAG in agentic systems. |
+
+## Favorite YouTube Videos for AI Agents
+
+| Topic | Title | Description |
+|---|---|---|
+| **LLM Introduction** | [How LLMs like GPT-4, Claude, and Gemini actually work](https://lnkd.in/dgiudQNF) | Yannic Kilcher's foundational explanation. |
+| **LLMs from Scratch** | [Building Transformers from Scratch](https://lnkd.in/dsVsv3Xy) | Deep technical dive into transformer architecture. |
+| **Agentic AI Overview** | [Stanford Seminar - The Future of AI is Agentic](https://lnkd.in/dW8XUQKM) | Stanford researchers explain why AI agents matter. |
+| **Building & Evaluating Agents** | [Building and Evaluating Agents](https://lnkd.in/dmWWHkiK) | Comprehensive guide covering construction and testing. |
+| **Building Effective Agents** | [Building Effective Agents](https://lnkd.in/dfhvfhtD) | Practical strategies for creating useful agents. |
+| **Building Agents with MCP** | [Building Agents with Microsoft's Model Context Protocol](https://lnkd.in/dKBY3aCn) | Tutorial on MCP framework for agent orchestration. |
+| **Building an Agent from Scratch** | [Building an Agent from Scratch](https://lnkd.in/dXNNWEaQ) | Hands-on tutorial showing how agent systems connect. |
+| **Philo Agents (Playlist)** | [Philo Agents (Playlist)](https://lnkd.in/dexUGJHs) | Advanced agent simulation series by Paul Iustzin. |
 
 ## Awesome Lists
 
