@@ -6,9 +6,8 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 
 - [Getting Started: Courses & Projects](#getting-started-courses--projects)
   - [Projects](#projects)
-  - [Online Courses](#online-courses)
-    - [GEN AI AND RAG FOUNDATIONS (LEVEL 1)](#gen-ai-and-rag-foundations-level-1)
-    - [AI AGENTS SPECIALIZATION (LEVEL 2)](#ai-agents-specialization-level-2)
+  - [Free Courses](#free-courses)
+
 - [Favorite YouTube Videos for AI Agents](#favorite-youtube-videos-for-ai-agents)
 - [Awesome Lists](#awesome-lists)
 - [Books](#books)
@@ -46,7 +45,7 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 | [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | NirDiamant | Tutorials and implementations for Generative AI Agent techniques. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/GenAI_Agents?style=social) |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | NirDiamant | End-to-end tutorials for production-grade GenAI agents. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/agents-towards-production?style=social) |
 
-### Online Courses
+### Free Courses
 
 
 | Name | Author | Description |
@@ -66,6 +65,19 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 | [Building Intelligent Troubleshooting Agents](https://lnkd.in/dnUhYZ7Y) | Coursera & Microsoft | Learn to evaluate and build effective troubleshooting agents. |
 | [Multi AI Agent Systems with crewAI](https://lnkd.in/dTudrD55) | DeepLearning.AI & CrewAI | A guide to creating and managing systems with multiple collaborating AI agents. |
 | [Building & Evaluating Advanced RAG Apps](https://lnkd.in/dyMg8eV9) | DeepLearning.AI, LlamaIndex & TruEra | Implementing and evaluating advanced RAG in agentic systems. |
+| [Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/) | DeepLearning.AI | Learn to systematically assess and improve your AI agent’s performance. |
+| [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) | DeepLearning.AI & CrewAI | A guide to creating and managing systems with multiple collaborating AI agents. |
+| [Agentic AI with LangGraph, CrewAI, AutoGen, and BeeAI](https://www.coursera.org/learn/agentic-ai-with-langgraph-crewai-autogen-and-bee) | Coursera | Designing optimized AI systems by selecting and combining appropriate agentic frameworks. |
+| [AI Agentic Design Patterns with AutoGen](https://www.classcentral.com/course/coursera-ai-agentic-design-patterns-with-autogen-295751) | Coursera & Microsoft | Understanding agent workflows and design patterns with AutoGen. |
+| [AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/learn/ai-agents-python) | Coursera | Building complete AI agent frameworks in Python. |
+| [AI Agents in LangGraph](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AAI+in+Software+Development&topic=topic%3AAgents) | DeepLearning.AI | Explore integrating AI agents within LangGraph for scalable and robust AI solutions. |
+| [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://corporate.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/course-feedback?listingIndex=0) | DeepLearning.AI | Delve into advanced applications of multi-agent systems using crewAI. |
+| [Build Apps with Windsurf’s AI Coding Agents](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AAI+in+Software+Development&topic=topic%3AAgents) | DeepLearning.AI | Learn to develop applications using Windsurf’s AI coding agents. |
+| [Building AI Browser Agents](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AAI+in+Software+Development&topic=topic%3AAgents) | DeepLearning.AI | Develop AI agents that interact with web browsers to automate tasks. |
+| [Building AI Voice Agents for Production](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AAI+in+Software+Development&topic=topic%3AAgents) | DeepLearning.AI | Create AI voice agents suitable for production environments. |
+| [Functions, Tools, and Agents with LangChain](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AAI+in+Software+Development&topic=topic%3AAgents) | DeepLearning.AI | Integrate functions and tools within LangChain to build efficient AI agents. |
+| [DSPy: Build and Optimize Agentic Apps](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AEvaluation+and+Monitoring&topic=topic%3ASearch+and+Retrieval) | DeepLearning.AI | Build and optimize agentic applications using DSPy. |
+| [Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/search?q=Ai+agents&topic=topic%3AEvaluation+and+Monitoring&topic=topic%3ASearch+and+Retrieval) | DeepLearning.AI | Implement long-term memory in AI agents using LangGraph. |
 
 ## Favorite YouTube Videos for AI Agents
 
