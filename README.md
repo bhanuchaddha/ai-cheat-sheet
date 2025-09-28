@@ -44,6 +44,7 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 | [agents](https://github.com/ed-donner/agents) | ed-donner | Repo for the Complete Agentic AI Engineering Course | ![GitHub Repo stars](https://img.shields.io/github.stars/ed-donner/agents?style=social) |
 | [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | NirDiamant | Tutorials and implementations for Generative AI Agent techniques. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/GenAI_Agents?style=social) |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | NirDiamant | End-to-end tutorials for production-grade GenAI agents. | ![GitHub Repo stars](https://img.shields.io/github.stars/NirDiamant/agents-towards-production?style=social) |
+| <img src="https://cdn.simpleicons.org/microsoft" width="20"> [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | microsoft | 12 Lessons to Get Started Building AI Agents | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=social) |
 
 ### Free Courses
 
@@ -211,7 +212,6 @@ Welcome to the AI Cheat Sheet, your ultimate guide to the world of Artificial In
 | [agentgpt](https://agentgpt.reworkd.ai/)                            | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)                         | ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)                             |
 | [metagpt](https://meta-gpt.com/)                                    | [geekan/MetaGPT](https://github.com/geekan/MetaGPT)                             | ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)                                 |
 | [SuperAGI](https://superagi.com/)                                   | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) |
-| <img src="https://cdn.simpleicons.org/microsoft" width="20"> [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=social) |
 
 ### Pre Training
 
